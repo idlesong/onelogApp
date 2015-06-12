@@ -1,2 +1,2 @@
-# onelogUI
-UI for onelog, use React and Reflux, to visit rails API.
+# onelogApp
+App for onelog, use React and Reflux, to visit rails API.
